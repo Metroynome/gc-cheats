@@ -14,7 +14,7 @@ docker run -it --rm -v "$PWD\:/src" ps2dev/ps2dev:v1.2.0
 cd src
 ```
 
-### Install libgc
+### Install librac2
 ```sh
 ./docker-init.sh
 ```

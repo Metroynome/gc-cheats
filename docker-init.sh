@@ -17,8 +17,8 @@ make && make release && cd .. && rm -rf $REPO_FOLDER || exit 2
 
 
 ## Download the source code.
-REPO_URL="https://github.com/Metroynome/libgc"
-REPO_FOLDER="libgc"
+REPO_URL="https://github.com/Metroynome/librac2"
+REPO_FOLDER="librac2"
 REPO_REFERENCE="origin/master"
 
 if test ! -d "$REPO_FOLDER"; then

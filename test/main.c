@@ -1,9 +1,9 @@
 #include <tamtypes.h>
 
-#include <libgc/stdio.h>
-#include <libgc/string.h>
-#include <libgc/pad.h>
-#include <libgc/player.h>
+#include <librac2/stdio.h>
+#include <librac2/string.h>
+#include <librac2/pad.h>
+#include <librac2/player.h>
 
 #ifdef RAC2_PAL
 #define SCREEN_WIDTH			(512)
