@@ -4,6 +4,7 @@ include ${CURDIR}/Makefile.defs
 
 EE_LIBS = -lrac2ntscuv200
 EE_DEFS = -DGC_NTSCU -DRAC2_NTSCU -DGC_V200 -DRAC2_V200 -DGC_NTSCU_V200 -DRAC2_NTSCU_V200
+PNACH_NAME = SCUS-97268_B3A71D10
 
 include ${CURDIR}/../Makefile.pref
 include ${CURDIR}/../Makefile.eeglobal

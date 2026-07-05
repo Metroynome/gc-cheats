@@ -1,4 +1,4 @@
-EE_REGION = ntscu
+EE_REGION = v101.ntscu
 
 include ${CURDIR}/Makefile.defs
 

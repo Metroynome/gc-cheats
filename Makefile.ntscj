@@ -4,6 +4,7 @@ include ${CURDIR}/Makefile.defs
 
 EE_LIBS = -lrac2ntscj
 EE_DEFS = -DGC_NTSCJ -DRAC2_NTSCJ
+PNACH_NAME = SCPS-15056_8CAA5F16
 
 include ${CURDIR}/../Makefile.pref
 include ${CURDIR}/../Makefile.eeglobal

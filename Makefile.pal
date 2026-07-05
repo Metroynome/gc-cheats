@@ -4,6 +4,7 @@ include ${CURDIR}/Makefile.defs
 
 EE_LIBS = -lrac2pal
 EE_DEFS = -DGC_PAL -DRAC2_PAL
+PNACH_NAME = SCES-51607_2F486E6F
 
 include ${CURDIR}/../Makefile.pref
 include ${CURDIR}/../Makefile.eeglobal
